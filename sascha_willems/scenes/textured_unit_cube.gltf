@@ -1,0 +1,120 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                1,
+                1,
+                1
+            ],
+            "min" : [
+                -1,
+                -1,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5121,
+            "count" : 36,
+            "type" : "SCALAR"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 I/O",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 288
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 384,
+            "byteOffset" : 576
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 1152
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1188,
+            "uri" : "data:application/octet-stream;base64,AACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAvwAAAAAAAACAAAAAAAAAAAAAAIC/AACAPwAAAIAAAACAAAAAAAAAAAAAAIA/AAAAAAAAgL8AAACAAAAAAAAAgD8AAACAAACAvwAAgD8AAIC/AACAvwAAgL8AAIA/AACAvwAAgD8AAIA/AACAPwAAgD8AAIC/AACAvwAAgL8AAIC/AACAvwAAgD8AAIC/AACAPwAAgD8AAIA/AACAPwAAgL8AAIC/AACAPwAAgD8AAIC/AACAvwAAgD8AAIA/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/AACAvwAAgL8AAIC/AACAPwAAgL8AAIA/AACAvwAAgL8AAIA/AACAPwAAgD8AAIC/AACAvwAAgD8AAIA/AACAPwAAgD8AAIA/AACAvwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgL8AAIA/AACAvwAAgL8AAIA/AACAPwAAgL8AAIC/AACAvwAAgD8AAIC/AAAAAAAAAAAAAIC/AACAvwAAAAAAAAAAAACAvwAAgL8AAAAAAAAAAAAAgL8AAIC/AACAPwAAAAAAAACAAACAvwAAgD8AAAAAAAAAgAAAgL8AAIA/AAAAAAAAAIAAAIC/AAAAAAAAAAAAAIC/AACAPwAAAAAAAAAAAACAvwAAgD8AAAAAAAAAAAAAgL8AAIA/AACAPwAAAAAAAACAAACAPwAAgD8AAAAAAAAAgAAAgD8AAIA/AAAAAAAAAIAAAIA/AACAPwAAAAAAAACAAACAvwAAgD8AAAAAAAAAgAAAgL8AAIA/AAAAAAAAAIAAAIC/AACAPwAAAAAAAACAAACAPwAAgD8AAAAAAAAAgAAAgD8AAIA/AAAAAAAAAIAAAIA/AAAAAAAAAAAAAIC/AACAvwAAgD8AAAAAAAAAgAAAgL8AAAAAAAAAAAAAgL8AAIA/AACAPwAAAAAAAACAAACAPwAAgD8AAAAAAAAAgAAAgL8AAIA/AAAAAAAAAIAAAIA/AAAAAAAAgD8AAIC/AAAAQAAAgL8AAIA/AAAAAAAAgD8AAIC/AAAAQAAAgL8AAIA/AAAAAAAAgD8AAIA/AAAAQAAAgD8AAIA/AAAAAAAAgD8AAIA/AAAAQAAAgD8AAIA/AAAAAAAAgD8AAIA/AAAAQAAAAAAAAABAAAAAAAAAgD8AAIC/AAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAIA/AACAPwAAgL8AAIA/AAECAwQFBgcICQoLDA0ODxARABIBAxMEBhQHCRUKDBYNDxcQ"
+        }
+    ],
+    "extensions" : {},
+    "materials" : [
+        {
+            "name" : "Material",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 0,
+                        "POSITION" : 1,
+                        "TANGENT" : 2,
+                        "TEXCOORD_0" : 3
+                    },
+                    "indices" : 4,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cube"
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
