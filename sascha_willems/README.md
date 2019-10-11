@@ -4,8 +4,7 @@ Licenses and attributions for the various scenes and textures used in this sub-f
 
 ## Scenes
 
-- Buggy.gltf taken from the [Khronos gltf Sample Models repository](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Buggy).
-- All other gltf scenes have been created for this Repository by Sascha Willems and are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+- gltf scenes have been created for this Repository by Sascha Willems and are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Textures
 
