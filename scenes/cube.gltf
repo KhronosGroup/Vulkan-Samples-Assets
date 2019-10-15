@@ -1,0 +1,114 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 36,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 36,
+            "max" : [
+                5,
+                5,
+                5
+            ],
+            "min" : [
+                -5,
+                -5,
+                -5
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 36,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5121,
+            "count" : 36,
+            "type" : "SCALAR"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 I/O",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 432,
+            "byteOffset" : 288
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 432,
+            "byteOffset" : 720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 1152
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 1188,
+            "uri" : "data:application/octet-stream;base64,AAAAAAAAgD8AAAAAAACAwAAAoEAAAIDAAAAAAAAAgD8AAAAAAADAQAAAoMAAAMBAAAAAAAAAgD8AAKBAAACAPwAAoEAAAIDAAAAAAAAAgD8AAKDAAACAPwAAoMAAAMBAAAAAAAAAgD8AAKBAAACAPwAAoEAAAIDAAAAAAAAAgD8AAKDAAACAPwAAoMAAAMBAAAAAAAAAgD8AAKBAAACAPwAAoEAAAIDAAAAAAAAAgD8AAKDAAACAPwAAoMAAAMBAAAAAAAAAgD8AAKDAAACAPwAAoMAAAIDAAAAAAAAAgD8AAKBAAACAPwAAoEAAAMBAAAAAAAAAgD8AAKDAAACAPwAAoMAAAIDAAAAAAAAAgD8AAKBAAACAPwAAoEAAAMBAAACgwAAAoMAAAKDAAACgwAAAoEAAAKDAAACgQAAAoEAAAKDAAACgQAAAoEAAAKDAAACgQAAAoMAAAKDAAACgwAAAoMAAAKDAAACgwAAAoMAAAKBAAACgQAAAoMAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgwAAAoEAAAKBAAACgwAAAoMAAAKBAAACgwAAAoMAAAKDAAACgQAAAoMAAAKDAAACgQAAAoMAAAKBAAACgQAAAoMAAAKBAAACgwAAAoMAAAKBAAACgwAAAoMAAAKDAAACgQAAAoMAAAKDAAACgQAAAoEAAAKDAAACgQAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoMAAAKBAAACgQAAAoMAAAKDAAACgQAAAoEAAAKDAAACgwAAAoEAAAKDAAACgwAAAoEAAAKBAAACgwAAAoEAAAKBAAACgQAAAoEAAAKBAAACgQAAAoEAAAKDAAACgwAAAoEAAAKDAAACgwAAAoMAAAKDAAACgwAAAoMAAAKBAAACgwAAAoMAAAKBAAACgwAAAoEAAAKBAAACgwAAAoEAAAKDAKM0TvyjNE78ozRO/KM0TvyjNEz8ozRO/KM0TPyjNEz8ozRO/KM0TPyjNEz8ozRO/KM0TPyjNE78ozRO/KM0TvyjNE78ozRO/KM0TvyjNE78ozRM/KM0TPyjNE78ozRM/KM0TPyjNEz8ozRM/KM0TPyjNEz8ozRM/KM0TvyjNEz8ozRM/KM0TvyjNE78ozRM/KM0TvyjNE78ozRO/KM0TPyjNE78ozRO/KM0TPyjNE78ozRM/KM0TPyjNE78ozRM/KM0TvyjNE78ozRM/KM0TvyjNE78ozRO/KM0TPyjNE78ozRO/KM0TPyjNEz8ozRO/KM0TPyjNEz8ozRM/KM0TPyjNEz8ozRM/KM0TPyjNE78ozRM/KM0TPyjNE78ozRO/KM0TPyjNEz8ozRO/KM0TvyjNEz8ozRO/KM0TvyjNEz8ozRM/KM0TvyjNEz8ozRM/KM0TPyjNEz8ozRM/KM0TPyjNEz8ozRO/KM0TvyjNEz8ozRO/KM0TvyjNE78ozRO/KM0TvyjNE78ozRM/KM0TvyjNE78ozRM/KM0TvyjNEz8ozRM/KM0TvyjNEz8ozRO/AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIj"
+        }
+    ],
+    "extensions" : {},
+    "materials" : [
+        {
+            "name" : "Material",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "default",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1,
+                        "TEXCOORD_0" : 0
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "default",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
