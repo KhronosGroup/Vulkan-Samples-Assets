@@ -3,6 +3,21 @@
         "generator" : "Khronos glTF Blender I/O v0.9.36",
         "version" : "2.0"
     },
+    "extensionsUsed": ["KHR_lights_punctual"],
+    "extensions": {
+        "KHR_lights_punctual" : {
+            "lights": [
+                {
+                    "color": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "type": "directional"
+                }
+            ]
+        }
+    },
     "scene" : 0,
     "scenes" : [
         {
@@ -1405,7 +1420,8 @@
                 1394,
                 1395,
                 1396,
-                1397
+                1397,
+                1398
             ]
         }
     ],
@@ -29369,6 +29385,19 @@
                 1,
                 1
             ]
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 0
+                }
+            },
+            "rotation" : [
+                0.069169,
+                -0.919112,
+                -0.187113,
+                -0.339761
+            ]
         }
     ],
     "materials" : [
@@ -57144,7 +57173,7 @@
             "source" : 66
         }
     ],
-"cameras" : [
+    "cameras" : [
         {
             "name": "Main Camera",
             "type": "perspective",
@@ -57156,7 +57185,7 @@
             }
         }
     ],
-"images": [
+    "images": [
         {
             "uri": "T_Normal.ktx"
         },
