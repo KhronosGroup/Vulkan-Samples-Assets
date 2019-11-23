@@ -1,0 +1,161 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 26,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 26,
+            "max" : [
+                1.7320510149002075,
+                2,
+                25
+            ],
+            "min" : [
+                -1.7320510149002075,
+                -2,
+                -25
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 26,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5121,
+            "count" : 36,
+            "type" : "SCALAR"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 I/O",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 312,
+            "byteOffset" : 312
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 208,
+            "byteOffset" : 624
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 832
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 868,
+            "uri" : "data:application/octet-stream;base64,/v//PtizXT8AAAAA/v//PtizXT8AAAAA/v//PtizXT8AAAAAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACA/v//PtizXb8AAAAA/v//PtizXb8AAAAA/v//PtizXb8AAAAAAQAAv9ezXb8AAAAAAQAAv9ezXb8AAAAAAQAAv9ezXb8AAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAv9ezXT8AAAAAAAAAv9ezXT8AAAAAAAAAv9ezXT8AAAAA/v//PtizXT8AAACAAACAPwAAAAAAAAAA/v//PtizXb8AAAAAAQAAv9ezXb8AAAAAAQAAv9ezXb8AAAAAAQAAv9ezXb8AAAAAAACAvwAAAAAAAAAAAAAAv9ezXT8AAAAAAAAAAAAAAEAAAMhB2bPdPwAAgD8AAMjBAAAAAAAAAEAAAMjB2bPdPwAAgD8AAMhB2bPdPwAAgL8AAMjB2bPdPwAAgD8AAMjB2bPdPwAAgL8AAMhBTb07tAAAAMAAAMjB2bPdPwAAgL8AAMjBTb07tAAAAMAAAMhB2bPdv/3/f78AAMjBTb07tAAAAMAAAMjB2bPdv/3/f78AAMhB2bPdv/3/fz8AAMjB2bPdv/3/f78AAMjB2bPdv/3/fz8AAMhBAAAAAAAAAEAAAMjB2bPdv/3/fz8AAMjB2bPdPwAAgD8AAMhB2bPdPwAAgL8AAMhBTb07tAAAAMAAAMhBTb07tAAAAMAAAMhB2bPdv/3/f78AAMhB2bPdv/3/f78AAMjB2bPdv/3/fz8AAMhBAAAAAAAAAEAAAMhBD///PgAAksENrKo+AACaQXkAAD8AAJpBRqmqPgAAksGRqyo+AACaQQ2sqj4AAJpBN1WVPwAAksGH/38/AACaQXFVlT8AAJpBOwCAPwAAksGjVFU/AACaQYf/fz8AAJpBCFZVPwAAksFxqio/AACaQaNUVT8AAJpB5qoqPwAAksF5AAA/AACaQXGqKj8AAJpBRqmqPgAAksG7qSo+AACSwTsAgD8AAJLBOwCAPwAAksEIVlU/AACSwaNUVT8AAJpB5qoqPwAAksEP//8+AACSwQABAgMEBQYHCAkKCwwNDg8QEQASAQMTBAYUBxUWFwwYDQ8ZEA=="
+        }
+    ],
+    "cameras" : [
+        {
+            "name" : "Camera",
+            "perspective" : {
+                "yfov" : 0.5033799372418416,
+                "zfar" : 100,
+                "znear" : 0.10000000149011612
+            },
+            "type" : "perspective"
+        }
+    ],
+    "extensions" : {},
+    "materials" : [
+        {
+            "name" : "Material_001",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cylinder.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 0,
+                        "POSITION" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cylinder",
+            "rotation" : [
+                0,
+                0.7071068286895752,
+                0,
+                0.7071068286895752
+            ],
+            "scale" : [
+                1,
+                1,
+                2
+            ]
+        },
+        {
+            "name" : "Lamp",
+            "rotation" : [
+                0.16907575726509094,
+                0.27217137813568115,
+                0.7558802962303162,
+                0.570947527885437
+            ],
+            "translation" : [
+                4.076245307922363,
+                1.0054539442062378,
+                5.903861999511719
+            ]
+        },
+        {
+            "camera" : 0,
+            "name" : "Camera",
+            "rotation" : [
+                0.48170700669288635,
+                0.21292175352573395,
+                0.3342514932155609,
+                0.7816000580787659
+            ],
+            "translation" : [
+                7.481131553649902,
+                -6.5076398849487305,
+                5.34366512298584
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2
+            ]
+        }
+    ]
+}
