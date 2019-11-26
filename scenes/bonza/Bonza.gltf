@@ -3,6 +3,21 @@
         "version": "2.0",
         "generator": "babylon.js glTF exporter for 3ds max 2019 v1.3.33"
     },
+    "extensionsUsed": ["KHR_lights_punctual"],
+    "extensions": {
+        "KHR_lights_punctual" : {
+            "lights": [
+                {
+                    "color": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "type": "directional"
+                }
+            ]
+        }
+    },
     "scene": 0,
     "scenes": [
         {
@@ -373,7 +388,8 @@
                 363,
                 364,
                 365,
-                366
+                366,
+                367
             ],
             "extensions": {}
         }
@@ -7717,6 +7733,19 @@
                 1
             ],
             "name" : "main_camera"
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 0
+                }
+            },
+            "rotation" : [
+                -0.683013,
+                0.183013,
+                -0.183013,
+                0.683013
+            ]
         }
     ],
     "meshes": [
