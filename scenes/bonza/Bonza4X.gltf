@@ -57181,7 +57181,7 @@
                 "aspectRatio": 1.77,
                 "yfov": 1.0,
                 "zfar": 4000.0,
-                "znear": 0.1
+                "znear": 1.0
             }
         }
     ],
