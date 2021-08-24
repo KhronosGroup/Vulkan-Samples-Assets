@@ -9,9 +9,12 @@ This project contains the following 3D models. Each one has its own licence.
    - Converted to gltf using [Blender exporter](https://github.com/KhronosGroup/glTF-Blender-IO).
 - Bonza: [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 - Space Module: [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+- vokselia: [CC BY 3.0 license](https://creativecommons.org/licenses/by/3.0/)
+  - All textures are converted to ASTC in .ktx format.
+  - Converted to gltf using [Blender exporter](https://github.com/KhronosGroup/glTF-Blender-IO).
 - Additional gltf scenes have been created for this repository by Sascha Willems and are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Sponza model downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data).
+Sponza and vokselia model downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data).
 
 ## Textures
 
