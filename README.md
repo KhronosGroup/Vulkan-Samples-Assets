@@ -16,6 +16,7 @@ This project contains the following 3D models. Each one has its own licence.
   - Converted to gltf using [Blender exporter](https://github.com/KhronosGroup/glTF-Blender-IO).
 - terrain: [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
   - Converted to gltf using [Blender exporter](https://github.com/KhronosGroup/glTF-Blender-IO).
+- morpheus_team: [BSD-3-Clause](https://opensource.org/license/bsd-3-clause/)
 - Additional gltf scenes have been created for this repository by Sascha Willems and are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 Sponza and vokselia model downloaded from Morgan McGuire's [Computer Graphics Archive](https://casual-effects.com/data).
