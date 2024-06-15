@@ -1,0 +1,11 @@
+Model Information:
+* title:	PICA PICA - Robot 01
+* source:	https://sketchfab.com/3d-models/pica-pica-robot-01-438e3a1589a6411a8e704471930389e1
+* author:	SEED.EA (https://sketchfab.com/SEED.EA)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PICA PICA - Robot 01" (https://sketchfab.com/3d-models/pica-pica-robot-01-438e3a1589a6411a8e704471930389e1) by SEED.EA (https://sketchfab.com/SEED.EA) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
